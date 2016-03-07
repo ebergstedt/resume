@@ -124,7 +124,7 @@ header h1
 
 header h2
 {
-    font-size: 2em;
+    font-size: 24px;
 }
 
 .sub{
@@ -262,7 +262,7 @@ dd
     #contact-info dd
     {
         float: left;
-        width: 79.5361%;
+        width: 79.9061%;
     }
 
 .col-one > div
@@ -299,6 +299,8 @@ dd
 {
     width: 100%;
     float: left;
+    position: relative;
+    top: 2px;
 }
 
 .col-two dd,
@@ -364,7 +366,7 @@ a.relatedprojects
 {
     float: left;
     text-decoration: none;
-    width: 79.536082474%;
+    width: 79.906082474%;
     clear: left;
     
     font-size: 1.3em;
@@ -392,7 +394,7 @@ article.project
 article.project hgroup
 {        
     float: right;    
-    width: 79.536082474%;
+    width: 79.906082474%;
     clear: left;
 }
 
@@ -414,7 +416,7 @@ article.project h4
 article p.projectdetails
 {            
     float: right;    
-    width: 79.536082474%;
+    width: 79.906082474%;
     clear: left;
 
     font-size: 1.3em;
@@ -440,7 +442,7 @@ span
 {
 	.sub
 	{
-		margin-top: 10px;
+		margin-top: 20px;
 		font-size: 0.9em;
 		display: block;
 	}
@@ -491,7 +493,7 @@ span
     article hgroup
     {
         float: right;
-        width: 79.5361%;
+        width: 79.9061%;
     }
 
     .job-start,
@@ -510,7 +512,7 @@ span
     .job-details
     {
         float: right;
-        width: 79.536082474%;
+        width: 79.906082474%;
     }
 
     .date-ranges
@@ -542,14 +544,14 @@ span
     p.introduction
     {
         float: right;
-        width: 79.536082474%;
+        width: 79.906082474%;
     }
 
     a.relatedprojects
     {
         float: right;
         text-decoration: none;
-        width: 79.536082474%;
+        width: 79.906082474%;
         clear: left;
     
         font-size: 1.3em;
