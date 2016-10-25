@@ -428,6 +428,11 @@ article p.space
     margin-top: 8px;
 }
 
+article
+{
+	width: 440px;
+}
+
 img
 {
     margin: 1em 0;
