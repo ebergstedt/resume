@@ -398,11 +398,6 @@ article.project hgroup
     clear: left;
 }
 
-h5
-{
-    color: rgb(38, 117, 0);
-}
-
 article.project h3
 {
     font-size: 1.4em;
@@ -550,14 +545,14 @@ span
     p.introduction
     {
         float: right;
-        width: 79.906082474%;
+        width: 90.2%;
     }
 
     a.relatedprojects
     {
         float: right;
         text-decoration: none;
-        width: 79.906082474%;
+        width: 80.906082%;
         clear: left;
     
         font-size: 1.3em;
