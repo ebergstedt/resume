@@ -31,11 +31,17 @@ about_content: | # this will include new lines to allow paragraphs
 # Projects Section
 # projects_title: Projects
 
+    test1
+
 # Experience Section
 # experience_title: Experience
 
+    test2
+
 # Education Section
 # educaton_title: Education
+
+    test3
 
 # More Section
 # more_title: A Little More About Me
