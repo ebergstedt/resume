@@ -26,7 +26,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   As a solution architect, my strength lies in creative incentives both at the low level of implementation and high level of business operation - improving code stability and performance, making long-term cost-efficient architecture choices fitting your requirements and helping your other developers to make the best product they can.
   
-  I have a wide breadth of knowledge, including but not limited to: .NET architecture, Azure cloud architecture, full-stack web development, API design and setup and implementaton of all stages of DevOps (coding, building tools, deployment and packaging, release automation, infrastructure configuration and monitoring).
+  I have a wide breadth of knowledge, including but not limited to: <mark>.NET architecture</mark>, <mark>Azure</mark> cloud architecture, full-stack <mark>web development</mark>, <mark>API design</mark> and setup and implementaton of all stages of <mark>DevOps</mark> (coding, building tools, deployment and packaging, release automation, infrastructure configuration and monitoring).
 
 # Projects Section
 # projects_title: Projects
