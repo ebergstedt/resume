@@ -4,7 +4,7 @@
 
 # Personal info
 name: Erik Bergstedt
-title: Solution Architect
+title: Solutions Architect
 email: bergstedt.erik@gmail.com
 website: https://github.com/ebergstedt
 
@@ -24,24 +24,18 @@ linkedin_username: erikbergstedt
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  As a solution architect, my strength lies in creative incentives both at the low level of implementation and high level of business operation - improving code stability and performance, making long-term cost-efficient architecture choices fitting your requirements and helping your other developers to make the best product they can.
+  As a solutions architect my strength lies in creative incentives both at the low level of implementation and high level of business operation - improving code stability and performance, making long-term cost-efficient architecture choices fitting your requirements and helping your other developers to make the best product they can.
   
   I have a wide breadth of knowledge, including but not limited to: <mark>.NET architecture</mark>, <mark>Azure</mark> cloud architecture, full-stack <mark>web development</mark>, <mark>API design</mark> and setup and implementaton of all stages of <mark>DevOps</mark> (coding, building tools, deployment and packaging, release automation, infrastructure configuration and monitoring).
 
 # Projects Section
 # projects_title: Projects
 
-    test1
-
 # Experience Section
 # experience_title: Experience
 
-    test2
-
 # Education Section
 # educaton_title: Education
-
-    test3
 
 # More Section
 # more_title: A Little More About Me
