@@ -1,1 +1,0 @@
-[ebergstedt.github.io/resume](http://ebergstedt.github.io/resume/)
