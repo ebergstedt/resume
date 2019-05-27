@@ -22,7 +22,7 @@ linkedin_username: erikbergstedt
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   As a solutions architect my strength lies in creative incentives both at the low level of implementation and high level of business operation - improving code stability and performance, making long-term cost-efficient architecture choices fitting your requirements and helping your other developers to make the best product they can.
   
