@@ -24,7 +24,9 @@ linkedin_username: erikbergstedt
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  As a solutions architect my strength lies in creative incentives both at the low level of implementation and high level of business operation - improving code stability and performance, making long-term cost-efficient architecture choices fitting your requirements and helping your other developers to make the best product they can.
+  As a solutions architect my strength lies in creative incentives both at the low level of implementation and high level of business operation - improving code stability and performance, with long-term cost-efficient architecture choices fitting your requirements and helping your other developers to make the best product they can.
+  
+  In architecture design we make the foundation for a successful business. Correct choices here are vital for reducing costs - mitigating risk of bugs, having the code flexible enough to handle requirement changes and - most importantly - making the project enjoyble to work with.
   
   I have a wide breadth of knowledge, including but not limited to: .NET architecture, Azure cloud architecture, full-stack web development, API design and setup and implementaton of all stages of DevOps (coding, building tools, deployment and packaging, release automation, infrastructure configuration and monitoring), SQL Server design and optimization.
 
