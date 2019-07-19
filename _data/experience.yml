@@ -1,4 +1,24 @@
 - layout: left
+  company: Inet AB
+  link: https://www.inet.se/
+  job_title: .NET Developer
+  dates: May 2013 - July 2015
+  quote: >
+   Inet is a major web- and physical shop in Sweden selling computer parts and various related items.
+  description: | # this will include new lines to allow paragraphs
+    In-house developer. Mainly web-development, full-stack. Developing internal apps. Payment APIs implementation such as PayPal, Handelsbanken and Klarna. Performance tuning, search engine optimization. Generally everyting related to keeping the IT side of a web shop operational and modern.
+
+- layout: left
+  company: Softronic AB
+  link: https://www.softronic.se/
+  job_title: .NET Consultant
+  dates: Jan 2012 - April 2013
+  # quote: >
+   # quote text
+  description: | # this will include new lines to allow paragraphs
+    In-house developer and consultant. Various project, including Android development with Google Maps, project leading a web-development team, Episerver development, general NET development.
+
+- layout: left
   company: Luda Elektronik AB
   link: https://www.luda.farm
   job_title: Logistics and hardware programming
