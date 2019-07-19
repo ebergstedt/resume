@@ -1,0 +1,21 @@
+- layout: left
+  company: Luda Elektronik AB
+  link: https://www.luda.farm
+  job_title: Logistics and hardware programming
+  dates: November 2010 - January 2011
+  # quote: >
+   # quote text
+  description: | # this will include new lines to allow paragraphs
+    Misc sogistics and hardware programming for Luda's products.
+
+- layout: left
+  company: Adludo
+  # link: http://adludo.se/
+  job_title: Android software developer
+  dates: November 2010 - January 2011
+  # quote: >
+   # quote text
+  description: | # this will include new lines to allow paragraphs
+    Translated an analogue game released by Adludo to the Android mobile platform. Was involved in all stages of development - UI design, DB and game engine development.
+
+
