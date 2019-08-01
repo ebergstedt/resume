@@ -1,10 +1,26 @@
 - layout: left
+  company: Collector Bank AB
+  link: https://www.collector.se/en/
+  job_title: .NET Solutions Architect
+  dates: Jan 2018 - Present
+  description: | # this will include new lines to allow paragraphs
+    In-house developer and Solutions Architect. Responsible for driving architecture to a high standard, further improving bank and collections solutions, implementing and managing Collector Bank's choices of modern code architectural choices.
+
+- layout: left
+  company: Squeed
+  link: https://www.squeed.se/
+  job_title: .NET Consultant
+  dates: Apr 2016 - Jan 2018
+  description: | # this will include new lines to allow paragraphs
+    Consultant. Assisting Collector Bank AB (which later employed me directly). Modernising bank and collections solutions, cloud architecture, devops setup and development. Exclusively back-end work.
+
+- layout: left
   company: Softhouse
   link: https://www.softhouse.se/
   job_title: .NET Consultant
   dates: Jul 2015 - Apr 2016
   description: | # this will include new lines to allow paragraphs
-    Consultant. Webapp and Big Data work through developing the EasyCube system for Tork. https://www.torkusa.com/easycube/ which uses IoT-connected sanitary devices and restroom metric data to optimize cleaning routes and cost efficiency.
+    Consultant. Webapp and Big Data work through developing the EasyCube system for Tork which uses IoT-connected sanitary devices and restroom metric data to optimize cleaning routes and cost efficiency.
 
 - layout: left
   company: Inet AB
@@ -21,21 +37,3 @@
   dates: Jan 2012 - April 2013
   description: | # this will include new lines to allow paragraphs
     In-house developer and consultant. Various project, including Android development with Google Maps, project leading a web-development team, Episerver development, general NET development.
-
-- layout: left
-  company: Luda Elektronik AB
-  link: https://www.luda.farm
-  job_title: Logistics and hardware programming
-  dates: November 2010 - January 2011
-  description: | # this will include new lines to allow paragraphs
-    Misc logistics and hardware programming for Luda's products.
-
-- layout: left
-  company: Adludo
-  # link: http://adludo.se/
-  job_title: Android software developer
-  dates: November 2010 - January 2011
-  description: | # this will include new lines to allow paragraphs
-    Translated an analogue game released by Adludo to the Android mobile platform. Was involved in all stages of development - UI design, DB and game engine development.
-
-
