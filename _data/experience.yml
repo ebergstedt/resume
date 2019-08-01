@@ -1,10 +1,16 @@
 - layout: left
+  company: Softhouse
+  link: https://www.softhouse.se/
+  job_title: .NET Consultant
+  dates: Jul 2015 - Apr 2016
+  description: | # this will include new lines to allow paragraphs
+    Consultant. Webapp and Big Data work through developing the EasyCube system for Tork. https://www.torkusa.com/easycube/ which uses IoT-connected sanitary devices and restroom metric data to optimize cleaning routes and cost efficiency.
+
+- layout: left
   company: Inet AB
   link: https://www.inet.se/
   job_title: .NET Developer
   dates: May 2013 - July 2015
-  quote: >
-   Inet is a major web- and physical shop in Sweden selling computer parts and various related items.
   description: | # this will include new lines to allow paragraphs
     In-house developer. Mainly web-development, full-stack. Developing internal apps. Payment APIs implementation such as PayPal, Handelsbanken and Klarna. Performance tuning, search engine optimization. Generally everything related to keeping the IT side of a web shop operational and modern.
 
@@ -13,8 +19,6 @@
   link: https://www.softronic.se/
   job_title: .NET Consultant
   dates: Jan 2012 - April 2013
-  quote: >
-   Softronic offers a wide selection of IT and management services. Our speciality is to take long-term responsibility in everything from fixed-price projects to outsourcing assignments lasting many years.
   description: | # this will include new lines to allow paragraphs
     In-house developer and consultant. Various project, including Android development with Google Maps, project leading a web-development team, Episerver development, general NET development.
 
@@ -23,18 +27,14 @@
   link: https://www.luda.farm
   job_title: Logistics and hardware programming
   dates: November 2010 - January 2011
-  # quote: >
-   # quote text
   description: | # this will include new lines to allow paragraphs
-    Misc sogistics and hardware programming for Luda's products.
+    Misc logistics and hardware programming for Luda's products.
 
 - layout: left
   company: Adludo
   # link: http://adludo.se/
   job_title: Android software developer
   dates: November 2010 - January 2011
-  # quote: >
-   # quote text
   description: | # this will include new lines to allow paragraphs
     Translated an analogue game released by Adludo to the Android mobile platform. Was involved in all stages of development - UI design, DB and game engine development.
 
