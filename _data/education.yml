@@ -9,3 +9,9 @@
   qualification: Bachelor - Geology, Earth Sciences
   description: | # this will include new lines to allow paragraphs
     As a break from technology I explored my interest in the natural sciences. My education includes climate and environmental research, geoscience, petrology, geochemistry, meteorology and atmospheric science, hydrology, oceanography and some historical biology.
+    
+- layout: left
+  name: Elof Lindälvs Gymnasium
+  qualification: Gymnasium - Nature Sciences
+  description: | # this will include new lines to allow paragraphs
+    Nature studies, mathematics and computer sicence.
