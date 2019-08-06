@@ -1,13 +1,11 @@
 - layout: left
   name: Chalmers University of Technology
-  dates: 2004-2007
   qualification: Bachelor - Computer Engineering
   description: | # this will include new lines to allow paragraphs
     During my time at Chalmers I learned both high and low-level concepts related to computer engineering, including objective-oritented programming, assembly, electronics, networking, database design and mathematics.
 
 - layout: left
   name: University of Gothenburg - Department of Earth Sciences
-  dates: 2007-2010
   qualification: Bachelor - Geology, Earth Sciences
   description: | # this will include new lines to allow paragraphs
     As a break from technology I explored my interest in the natural sciences. My education includes climate and environmental research, geoscience, petrology, geochemistry, meteorology and atmospheric science, hydrology, oceanography and some historical biology.
