@@ -26,7 +26,7 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   As a solutions architect my strength lies in taking responsibility to drive your business forward with creative incentives both at the levels of implementation and business operation - improving code stability and performance, with long-term cost-efficient architecture choices fitting your requirements and helping your other developers to make the best product they can.
   
-  I have a wide breadth of knowledge, including but not limited to: <mark>.NET Architecture</mark>, <mark>Azure Cloud Architecture</mark>, <mark>Full-stack Web Development</mark>, <mark>API Design</mark>, setup and implementaton in all stages of <mark>DevOps</mark> (coding, building tools, deployment and packaging, release automation, infrastructure configuration and monitoring), <mark>Database Design and Optimization</mark>. Language skills include <mark>C#</mark>, <mark>SQL</mark>, <mark>F#</mark>, <mark>Java</mark>, <mark>JavaScript</mark>, <mark>Python</mark> and <mark>C and C++</mark>
+  I have a wide breadth of knowledge, including but not limited to: <mark>.NET Architecture</mark>, <mark>Azure Cloud Architecture</mark>, <mark>Full-stack Web Development</mark>, <mark>API Design</mark>, <mark>Big Data</mark>, setup and implementaton in all stages of <mark>DevOps</mark> (coding, building tools, deployment and packaging, release automation, infrastructure configuration and monitoring), <mark>Database Design and Optimization</mark>. Language skills include <mark>C#</mark>, <mark>SQL</mark>, <mark>F#</mark>, <mark>Java</mark>, <mark>JavaScript</mark>, <mark>Python</mark> and <mark>C and C++</mark>
 
 # Projects Section
 # projects_title: Projects
