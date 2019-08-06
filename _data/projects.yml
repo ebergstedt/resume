@@ -1,11 +1,11 @@
-- layout: top-left
+- layout: left
   name: Protobuffer
   link: https://github.com/ebergstedt/ProtoBuffer
   github: ebergstedt/ProtoBuffer
   description: | # this will include new lines to allow paragraphs
     This is a demo project for implementing Protobuf, the serialization format developed by Google. It has a wrapper, is well documented and is useful for compression for any type of data.
     
-- layout: top-left
+- layout: left
   name: SimpleMemoryCache
   link: https://github.com/ebergstedt/SimpleMemoryCache
   github: ebergstedt/SimpleMemoryCache
