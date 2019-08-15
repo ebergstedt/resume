@@ -4,7 +4,7 @@
   job_title: .NET Solutions Architect
   #dates: Jan 2018 - Present
   description: | # this will include new lines to allow paragraphs
-    In-house developer and Solutions Architect. Took initiative and responsibility for improving architecture of banking and collections code to a high and modern standard, improving performance and user experience of both internal and external customers. This included big data, microservice-oriented architecture and cloud hosting.
+    Took initiative and responsibility for improving architecture of banking and collections code to a high and modern standard, improving performance and user experience of both internal and external customers. This included big data, microservice-oriented architecture and cloud hosting.
 
 - layout: left
   company: Squeed
@@ -12,7 +12,7 @@
   job_title: .NET Consultant
   #dates: Apr 2016 - Jan 2018
   description: | # this will include new lines to allow paragraphs
-    Consultant. Assisting Collector Bank AB (which later employed me directly due to excellent performance). Modernised bank and collections solutions making code faster and more stable and less costly to maintain, migrated on-site legacy code to cloud hosting reducing maintenance cost and overhead, complete devops setup and development. Exclusively back-end work.
+    Assisting Collector Bank AB (which later employed me directly due to excellent performance). Modernised bank and collections solutions making code faster and more stable and less costly to maintain, migrated on-site legacy code to cloud hosting reducing maintenance cost and overhead, complete devops setup and development. Exclusively back-end work.
 
 - layout: left
   company: Softhouse
@@ -20,7 +20,7 @@
   job_title: .NET Consultant
   #dates: Jul 2015 - Apr 2016
   description: | # this will include new lines to allow paragraphs
-    Consultant. Webapp and Big Data work through developing the EasyCube system for Tork which uses IoT-connected sanitary devices and restroom metric data to optimize cleaning routes and cost efficiency. Improved query efficiency for many core functions by over 90% by restructuring fundamental database design.
+    Web development and Big Data work through developing the EasyCube system for Tork which uses IoT-connected sanitary devices and restroom metric data to optimize cleaning routes and cost efficiency. Improved query efficiency for many core functions by over 90% by restructuring fundamental database design.
 
 - layout: left
   company: Inet AB
@@ -28,7 +28,7 @@
   job_title: .NET Developer
   #dates: May 2013 - July 2015
   description: | # this will include new lines to allow paragraphs
-    In-house developer. Mainly web-development, full-stack. Developed internal apps. Payment APIs implementation such as PayPal, Handelsbanken and Klarna. Performance tuning, search engine optimization. Generally everything related to keeping the IT side of a web shop operational and modern.
+    Full-stack web development. Payment APIs implementation such as PayPal, Handelsbanken and Klarna which increased customer satisfaction and order completion. Performance tuning for faster a faster web experience. Search engine optimization for greater visibility on search sites such as Google and Bing. Generally everything related to keeping the IT side of a web shop operational and modern.
 
 - layout: left
   company: Softronic AB
@@ -36,4 +36,4 @@
   job_title: .NET Consultant
   #dates: Jan 2012 - April 2013
   description: | # this will include new lines to allow paragraphs
-    In-house developer and consultant. Various projects, including Android development with Google Maps, project leading a web-development team, Episerver development, general .NET development.
+    In-house developer and consultant. Various projects, including Android development with Google Maps - showing GPS locations of heart starters to users, making them able to find help quickly and accurately. Project leading a web-development team, modernizing 1177.se with responsive design.
