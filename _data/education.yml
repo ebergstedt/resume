@@ -2,7 +2,7 @@
   name: Chalmers University of Technology
   qualification: Bachelor - Computer Engineering
   description: | # this will include new lines to allow paragraphs
-    During my time at Chalmers I learned both high and low-level concepts related to computer engineering, including objective-oritented programming, assembly, electronics, networking, database design and mathematics.
+    During my time at Chalmers I learned both high and low-level concepts related to computer engineering, including objective-oritented programming, assembly, electronics, networking, cpu design, fundamental database design and mathematics. This gives me valuable insight into the physical and electrical fundamentals of the base logic systems and algorithms that drives a computer, combined with the practical and concrete application of high level programming. This adds up to a complete education in computer science and a deep understanding of computers.
 
 - layout: left
   name: University of Gothenburg - Department of Earth Sciences
