@@ -1,11 +1,9 @@
 - layout: left
   company: Collector Bank AB, Colligent Inkasso AB
-  link: https://www.collector.se/ https://www.colligent.se
+  link: https://www.collector.se https://www.colligent.se
   job_title: .NET Solutions Architect
   #dates: Jan 2018 - Present
   description: | # this will include new lines to allow paragraphs
-    Colligent is a fully owned daughter company of Collector located in the same building and they are very closely tied. I worked with both companies simultaneously and interchangably - so they are both listed.
-    
     Took initiative and responsibility for improving architecture of banking and collections code to a high and modern standard, improving performance and user experience of both internal and external customers. These changes were realized through big data management, microservice-oriented architecture and cloud hosting.
     
     This foundation proved is essential for futher modernisation and increased end-user satisfaction immensely, attracting new customers with new and improved functionality that was in essence impossible to implement previously due to legacy constraints.
