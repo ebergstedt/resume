@@ -4,9 +4,9 @@
   job_title: .NET Solutions Architect
   #dates: Jan 2018 - Present
   description: | # this will include new lines to allow paragraphs
-    Took initiative and responsibility for improving architecture of banking and collections code to a high and modern standard, improving performance and user experience of both internal and external customers. 
+    Took initiative and responsibility for improving architecture of banking and collections code to a high and modern standard, improving performance and user experience of both internal and external customers. These changes were realized through big data management, microservice-oriented architecture and cloud hosting.
     
-    This foundation proved is essential for futher modernisation and increased end-user satisfaction immensely, adding new customers, new functionality that was in essence impossible to implement previously. This included big data, microservice-oriented architecture and cloud hosting.
+    This foundation proved is essential for futher modernisation and increased end-user satisfaction immensely, attracting new customers with new and improved functionality that was in essence impossible to implement previously. 
 
 - layout: left
   company: Squeed
