@@ -4,7 +4,7 @@
   job_title: .NET Solutions Architect
   dates: Jan 2018 - Present
   description: | # this will include new lines to allow paragraphs
-    In-house developer and Solutions Architect. Took initiative and responsibility for improving architecture of banking and collections code to a high standard, improving performance and experience of both internal and external customers. This included big data, microservice-oriented architecture and cloud hosting.
+    In-house developer and Solutions Architect. Took initiative and responsibility for improving architecture of banking and collections code to a high and modern standard, improving performance and user experience of both internal and external customers. This included big data, microservice-oriented architecture and cloud hosting.
 
 - layout: left
   company: Squeed
@@ -12,7 +12,7 @@
   job_title: .NET Consultant
   dates: Apr 2016 - Jan 2018
   description: | # this will include new lines to allow paragraphs
-    Consultant. Assisting Collector Bank AB (which later employed me directly). Modernised bank and collections solutions, cloud architecture, devops setup and development. Exclusively back-end work.
+    Consultant. Assisting Collector Bank AB (which later employed me directly due to excellent performance). Modernised bank and collections solutions making code faster and more stable and less costly to maintain, migrated on-site legacy code to cloud hosting reducing maintenance cost and overhead, complete devops setup and development. Exclusively back-end work.
 
 - layout: left
   company: Softhouse
@@ -20,7 +20,7 @@
   job_title: .NET Consultant
   dates: Jul 2015 - Apr 2016
   description: | # this will include new lines to allow paragraphs
-    Consultant. Webapp and Big Data work through developing the EasyCube system for Tork which uses IoT-connected sanitary devices and restroom metric data to optimize cleaning routes and cost efficiency.
+    Consultant. Webapp and Big Data work through developing the EasyCube system for Tork which uses IoT-connected sanitary devices and restroom metric data to optimize cleaning routes and cost efficiency. Improved query efficiency for many core functions by over 90% by restructuring fundamental database design.
 
 - layout: left
   company: Inet AB
