@@ -20,7 +20,7 @@
   job_title: .NET Consultant
   #dates: Jul 2015 - Apr 2016
   description: | # this will include new lines to allow paragraphs
-    Web development and Big Data work through developing the EasyCube system for Tork which uses IoT-connected sanitary devices and restroom metric data to optimize cleaning routes and cost efficiency. Improved query efficiency for many core functions by over 90% by restructuring fundamental database design.
+    Web development and Big Data work through developing the EasyCube system for Tork which uses IoT-connected sanitary devices and restroom metric data to optimize cleaning routes and cost efficiency. Improved query efficiency for many core functions by over 90% by restructuring fundamental database design which drastically reduced the time to compute and update data for the end-customer's needs.
 
 - layout: left
   company: Inet AB
