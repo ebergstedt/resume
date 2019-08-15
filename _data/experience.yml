@@ -1,6 +1,6 @@
 - layout: left
-  company: Collector Bank AB
-  link: https://www.collector.se/en/
+  company: Collector Bank AB, Colligent Inkasso AB
+  link: https://www.collector.se/en/ https://www.colligent.se
   job_title: .NET Solutions Architect
   #dates: Jan 2018 - Present
   description: | # this will include new lines to allow paragraphs
