@@ -2,7 +2,7 @@
   company: Collector Bank AB
   link: https://www.collector.se/en/
   job_title: .NET Solutions Architect
-  dates: Jan 2018 - Present
+  #dates: Jan 2018 - Present
   description: | # this will include new lines to allow paragraphs
     In-house developer and Solutions Architect. Took initiative and responsibility for improving architecture of banking and collections code to a high and modern standard, improving performance and user experience of both internal and external customers. This included big data, microservice-oriented architecture and cloud hosting.
 
@@ -10,7 +10,7 @@
   company: Squeed
   link: https://www.squeed.se/
   job_title: .NET Consultant
-  dates: Apr 2016 - Jan 2018
+  #dates: Apr 2016 - Jan 2018
   description: | # this will include new lines to allow paragraphs
     Consultant. Assisting Collector Bank AB (which later employed me directly due to excellent performance). Modernised bank and collections solutions making code faster and more stable and less costly to maintain, migrated on-site legacy code to cloud hosting reducing maintenance cost and overhead, complete devops setup and development. Exclusively back-end work.
 
@@ -18,7 +18,7 @@
   company: Softhouse
   link: https://www.softhouse.se/
   job_title: .NET Consultant
-  dates: Jul 2015 - Apr 2016
+  #dates: Jul 2015 - Apr 2016
   description: | # this will include new lines to allow paragraphs
     Consultant. Webapp and Big Data work through developing the EasyCube system for Tork which uses IoT-connected sanitary devices and restroom metric data to optimize cleaning routes and cost efficiency. Improved query efficiency for many core functions by over 90% by restructuring fundamental database design.
 
@@ -26,7 +26,7 @@
   company: Inet AB
   link: https://www.inet.se/
   job_title: .NET Developer
-  dates: May 2013 - July 2015
+  #dates: May 2013 - July 2015
   description: | # this will include new lines to allow paragraphs
     In-house developer. Mainly web-development, full-stack. Developed internal apps. Payment APIs implementation such as PayPal, Handelsbanken and Klarna. Performance tuning, search engine optimization. Generally everything related to keeping the IT side of a web shop operational and modern.
 
@@ -34,6 +34,6 @@
   company: Softronic AB
   link: https://www.softronic.se/
   job_title: .NET Consultant
-  dates: Jan 2012 - April 2013
+  #dates: Jan 2012 - April 2013
   description: | # this will include new lines to allow paragraphs
     In-house developer and consultant. Various projects, including Android development with Google Maps, project leading a web-development team, Episerver development, general .NET development.
