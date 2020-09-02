@@ -3,10 +3,8 @@
   link: https://www.collector.se
   job_title: .NET Solutions Architect
   dates: Jan 2018 - Present
-  description: | # this will include new lines to allow paragraphs
-    Took initiative and responsibility for improving architecture of banking and collections code to a high and modern standard, improving performance and user experience of both internal and external customers. These changes were realized through big data management, microservice-oriented architecture and cloud hosting.
-    
-    This foundation proved is essential for futher modernisation and increased end-user satisfaction immensely, attracting new customers with new and improved functionality that was in essence impossible to implement previously due to legacy constraints.
+  description: | # this will include new lines to allow paragraphs        
+    Project leading role. Took initiative to lift a legacy debt collection system to a modern standard. Implementation included Big Data, event-focused microservice-oriented architecture, cloud hosting and devops restructuring. Results were 90% less time to production, 90-99% time delay reduction for end consumers, and 70% cost reduction in relation to the legacy hosting with increased scalability on-demand.
 
 - layout: left
   company: Squeed
@@ -14,7 +12,7 @@
   job_title: .NET Consultant
   dates: Apr 2016 - Jan 2018
   description: | # this will include new lines to allow paragraphs
-    Assisting Collector Bank AB (which later employed me directly due to excellent performance). Modernised bank and collections solutions - making code more stable and less costly to maintain. Migrated on-site legacy code to cloud hosting reducing maintenance cost and overhead with complete devops setup and development.
+    Assisting Collector Bank AB (which later employed me directly due to excellent performance). Payments and collections, with a focus on improving end user experience of the banking products.
 
 - layout: left
   company: Softhouse
@@ -22,7 +20,7 @@
   job_title: .NET Consultant
   dates: Jul 2015 - Apr 2016
   description: | # this will include new lines to allow paragraphs
-    Web development and Big Data work through developing the EasyCube system for Tork which uses IoT-connected sanitary devices and restroom metric data to optimize cleaning routes and cost efficiency. Improved query efficiency for many core functions by over 90% by restructuring fundamental database design which drastically reduced the time to compute and update data for the end-customer's needs.
+    Web development and Big Data work through developing the EasyCube system for Tork which uses IoT-connected sanitary devices and restroom metric data to optimize cleaning routes and cost efficiency. Improved query efficiency for many core functions by over 80% by remodeling the data hosting solution.
 
 - layout: left
   company: Inet AB
@@ -30,7 +28,7 @@
   job_title: .NET Developer
   dates: May 2013 - July 2015
   description: | # this will include new lines to allow paragraphs
-    Full-stack web development. Payment APIs implementation such as PayPal, Handelsbanken and Klarna which increased customer satisfaction and order completion. Performance tuning for faster a faster web experience. Search engine optimization for greater visibility on search sites such as Google and Bing. Generally everything related to keeping the IT side of a web shop operational and modern.
+    Full-stack web development. Payment API implementation such as PayPal, Handelsbanken and Klarna. Performance tuning, search engine optimization, hosting management. Generally everything related to keeping the IT side of a web shop operational and modern.
 
 - layout: left
   company: Softronic AB
@@ -38,4 +36,4 @@
   job_title: .NET Consultant
   dates: Jan 2012 - April 2013
   description: | # this will include new lines to allow paragraphs
-    In-house developer and consultant. Various projects, including Android development with Google Maps - showing GPS locations of heart starters to users, making them able to find help quickly and accurately. Project leading a web-development team, modernizing 1177.se with responsive design.
+    In-house developer and consultant. Various projects, including Android development with Google Maps, improving legacy code hosting, modernizing government healthcare with responsive web design.
