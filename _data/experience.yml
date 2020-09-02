@@ -1,5 +1,5 @@
 - layout: left
-  company: Collector Bank AB
+  company: Collector Bank
   link: https://www.collector.se
   job_title: .NET Solutions Architect
   dates: Jan 2018 - Present
@@ -12,7 +12,7 @@
   job_title: .NET Consultant
   dates: Apr 2016 - Jan 2018
   description: | # this will include new lines to allow paragraphs
-    Assisting Collector Bank AB (which later employed me directly due to excellent performance). Payments and collections, with a focus on improving end user experience of the banking products.
+    Assisting Collector Bank (which later employed me directly due to excellent performance). Payments and collections, with a focus on improving end user experience of the banking products.
 
 - layout: left
   company: Softhouse
@@ -23,7 +23,7 @@
     Web development and Big Data work through developing the EasyCube system for Tork which uses IoT-connected sanitary devices and restroom metric data to optimize cleaning routes and cost efficiency. Improved query efficiency for many core functions by over 80% by remodeling the data hosting solution.
 
 - layout: left
-  company: Inet AB
+  company: Inet
   link: https://www.inet.se/
   job_title: .NET Developer
   dates: May 2013 - July 2015
@@ -31,7 +31,7 @@
     Full-stack web development. Payment API implementation such as PayPal, Handelsbanken and Klarna. Performance tuning, search engine optimization, hosting management. Generally everything related to keeping the IT side of a web shop operational and modern.
 
 - layout: left
-  company: Softronic AB
+  company: Softronic
   link: https://www.softronic.se/
   job_title: .NET Consultant
   dates: Jan 2011 - April 2013
