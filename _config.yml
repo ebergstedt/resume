@@ -9,15 +9,15 @@ email: bergstedt.erik@gmail.com
 website: https://github.com/ebergstedt
 
 # Social links
-twitter_username: businessbro7
+# twitter_username: businessbro7
 github_username: ebergstedt
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: businessbro7
+# instagram_username: businessbro7
 linkedin_username: erikbergstedt
 # pinterest_username: jekyll
-youtube_username: channel/UCgB297rK0gFSIDTt4d9yN2Q
+# youtube_username: channel/UCgB297rK0gFSIDTt4d9yN2Q
 # googleplus_username: +jekyll
 
 # About Section
@@ -41,10 +41,10 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in programming some of my other interests and hobbies are:
-   - Cooking and nutrition science
+   - Cooking and nutritional science
    - Physiology and psychology
    - Gaming
-   - Bicycling
+   - Weight lifting
 
 # Footer
 footer_show_references: true
