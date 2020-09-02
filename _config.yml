@@ -26,8 +26,14 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   As a Solutions Architect I take responsibility to drive your business forward, with creative and valuable incentives, both on the level of business and implementation. I enjoy improving code stability and performance, with long-term cost-efficient architecture, but also teaching and enabling other developers to make the best product they can.
 
-  I have a wide breadth of knowledge, including but not limited to: .NET Architecture, Azure Cloud Architecture, Full-stack Web Development, API Design, Big Data, setup and implementaton of DevOps (coding, building tools, deployment and packaging, release automation, infrastructure configuration and monitoring), and database design and optimization. 
-  
+  I have a wide breadth of knowledge, including but not limited to: 
+  * .NET Architecture
+  * Azure Cloud Architecture
+  * Full-stack Web Development
+  * API design and implementation
+  * Big Data
+  * Setup and implementaton of DevOps (coding, building tools, deployment and packaging, release automation, infrastructure configuration and monitoring)
+  * Database design and optimization (Relational, NoSQL, hybrid)  
   * Language skills include C#, SQL, F#, Java, JavaScript, Python and C and C++
 
  #As a <mark>Solutions Architect</mark> my strength lies in taking responsibility to drive your business forward with creative incentives at the levels of implementation and business operation - improving code stability and performance, with long-term cost-efficient architecture choices fitting your requirements and helping your other developers to make the best product they can.
