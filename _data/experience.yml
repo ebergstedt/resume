@@ -1,8 +1,8 @@
 - layout: left
   company: Collector Bank AB, Colligent Inkasso AB
-  link: https://www.collector.se https://www.colligent.se
+  link: https://www.collector.se
   job_title: .NET Solutions Architect
-  #dates: Jan 2018 - Present
+  dates: Jan 2018 - Present
   description: | # this will include new lines to allow paragraphs
     Took initiative and responsibility for improving architecture of banking and collections code to a high and modern standard, improving performance and user experience of both internal and external customers. These changes were realized through big data management, microservice-oriented architecture and cloud hosting.
     
