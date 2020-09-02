@@ -12,7 +12,7 @@
   company: Squeed
   link: https://www.squeed.se/
   job_title: .NET Consultant
-  #dates: Apr 2016 - Jan 2018
+  dates: Apr 2016 - Jan 2018
   description: | # this will include new lines to allow paragraphs
     Assisting Collector Bank AB (which later employed me directly due to excellent performance). Modernised bank and collections solutions - making code more stable and less costly to maintain. Migrated on-site legacy code to cloud hosting reducing maintenance cost and overhead with complete devops setup and development.
 
@@ -20,7 +20,7 @@
   company: Softhouse
   link: https://www.softhouse.se/
   job_title: .NET Consultant
-  #dates: Jul 2015 - Apr 2016
+  dates: Jul 2015 - Apr 2016
   description: | # this will include new lines to allow paragraphs
     Web development and Big Data work through developing the EasyCube system for Tork which uses IoT-connected sanitary devices and restroom metric data to optimize cleaning routes and cost efficiency. Improved query efficiency for many core functions by over 90% by restructuring fundamental database design which drastically reduced the time to compute and update data for the end-customer's needs.
 
@@ -28,7 +28,7 @@
   company: Inet AB
   link: https://www.inet.se/
   job_title: .NET Developer
-  #dates: May 2013 - July 2015
+  dates: May 2013 - July 2015
   description: | # this will include new lines to allow paragraphs
     Full-stack web development. Payment APIs implementation such as PayPal, Handelsbanken and Klarna which increased customer satisfaction and order completion. Performance tuning for faster a faster web experience. Search engine optimization for greater visibility on search sites such as Google and Bing. Generally everything related to keeping the IT side of a web shop operational and modern.
 
@@ -36,6 +36,6 @@
   company: Softronic AB
   link: https://www.softronic.se/
   job_title: .NET Consultant
-  #dates: Jan 2012 - April 2013
+  dates: Jan 2012 - April 2013
   description: | # this will include new lines to allow paragraphs
     In-house developer and consultant. Various projects, including Android development with Google Maps - showing GPS locations of heart starters to users, making them able to find help quickly and accurately. Project leading a web-development team, modernizing 1177.se with responsive design.
