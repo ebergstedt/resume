@@ -12,7 +12,7 @@
   job_title: .NET Consultant
   dates: Apr 2016 - Jan 2018
   description: | # this will include new lines to allow paragraphs
-    Assisting Collector Bank (which later employed me directly due to excellent performance). Payments and collections, with a focus on improving end user experience of the banking products.
+    Assisting Collector Bank (which later employed me directly due to excellent performance). Payments and collections, with a focus on improving end user experience of the banking products (B2B, B2C). 
 
 - layout: left
   company: Softhouse
@@ -28,7 +28,7 @@
   job_title: .NET Developer
   dates: May 2013 - July 2015
   description: | # this will include new lines to allow paragraphs
-    Full-stack web development. Payment API implementation such as PayPal, Handelsbanken and Klarna. Performance tuning, search engine optimization, hosting management. Generally everything related to keeping the IT side of a web shop operational and modern.
+    Full-stack web development. Payment API implementation such as PayPal, Handelsbanken and Klarna, resulting in 5% increase in customer finishing purchaces. Performance tuning, search engine optimization, hosting management. Generally everything related to keeping the IT side of a web shop operational and modern.
 
 - layout: left
   company: Softronic
