@@ -24,7 +24,7 @@ linkedin_username: erikbergstedt
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  As a Solutions Architect I take responsibility to drive your company vision forward, with creative and valuable incentives in both business and implementation. I enjoy improving code stability and performance, with long-term cost-efficient architectural choices, but also teaching and enabling other developers to make the best product they can.
+  As a Solutions Architect I take responsibility to drive your company vision forward, with creative and valuable incentives in both business and implementation. I enjoy improving code stability and performance, with long-term cost-efficient architectural choices, and also teaching and enabling other developers to make the best product they can.
 
   I have 10 years of experience with a wide breadth of knowledge, including but not limited to: 
   * .NET architecture design
