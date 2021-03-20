@@ -82,7 +82,23 @@ content:
         #quote: >
           #Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          This is a demo project for implementing Protobuf, the serialization format developed by Google. It has a wrapper, is well documented and is useful for compression for any type of data. ProtoBuf is designed for is unprecedented speed of deserialization, with a very compact format.
+          This is a demo project for implementing Protobuf, the serialization format developed by Google. It has a wrapper, is well documented and is useful for compression for any type of data. ProtoBuf is designed for unprecedented speed of deserialization, with a very compact format.
+      - layout: left
+        title: Protobuffer
+        link: https://github.com/ebergstedt/ProtoBuffer
+        link_text: Protobuffer
+        additional_links:
+          - title:  ebergstedt/ProtoBuffer
+            icon: fab fa-github
+            url: https://github.com/ebergstedt/ProtoBuffer
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            # icon: fab fa-github
+            # url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #quote: >
+          #Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          This is a demo project for implementing Protobuf, the serialization format developed by Google. It has a wrapper, is well documented and is useful for compression for any type of data. ProtoBuf is designed for unprecedented speed of deserialization, with a very compact format.
+      
   - title: Experience
     layout: list
     content:
