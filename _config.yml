@@ -84,33 +84,33 @@ content:
         description: | # this will include new lines to allow paragraphs
           This is a demo project for implementing Protobuf, the serialization format developed by Google. It has a wrapper, is well documented and is useful for compression for any type of data. ProtoBuf is designed for unprecedented speed of deserialization, with a very compact format.
       - layout: left
-        title: Protobuffer
-        link: https://github.com/ebergstedt/ProtoBuffer
-        link_text: Protobuffer
+        title: SimpleMemoryCache
+        link: https://github.com/ebergstedt/SimpleMemoryCache
+        link_text:  SimpleMemoryCache
         additional_links:
-          - title:  ebergstedt/ProtoBuffer
+          - title:  ebergstedt/SimpleMemoryCache
             icon: fab fa-github
-            url: https://github.com/ebergstedt/ProtoBuffer
+            url: https://github.com/ebergstedt/SimpleMemoryCache
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
             # icon: fab fa-github
             # url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #quote: >
           #Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          This is a demo project for implementing Protobuf, the serialization format developed by Google. It has a wrapper, is well documented and is useful for compression for any type of data. ProtoBuf is designed for unprecedented speed of deserialization, with a very compact format.
+          Helper library for .NET MemoryCache with generics, easy initialization and deferred methods if key data is not found. Very useful for keeping data in-memory for fast access without saving it to a database.
       
   - title: Experience
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
+        title: Collector Bank
+        sub_title: .NET Solutions Architect
+        caption: Jan 2018 - Present
+        link: https://www.collector.se
+        #quote: >
+          #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Project leading role in fintech. Took initiative to lift a legacy debt collection system to a modern standard. Implementation included Big Data, event-focused microservice-oriented architecture, cloud hosting and devops restructuring. Results included 90% less time to production, 90-99% query time delay reduction for end consumers, and 70% cost reduction in relation to the legacy hosting with increased on-demand scalability.
   - title: Education
     layout: list
     content:
