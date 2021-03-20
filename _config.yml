@@ -54,7 +54,7 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   As a Solutions Architect I take responsibility to drive your company vision forward, with creative and valuable incentives in both business strategy and concrete implementation. I enjoy improving code stability and performance, with long-term cost-efficient architectural choices, and also teaching and enabling other developers to make the best product they can.
 
-  I have 10 years of experience with a wide breadth of knowledge, including but not limited to: 
+  I have over 10 years of experience with a wide breadth of knowledge, including but not limited to: 
   * .NET architecture design
   * Distributed system design
   * Cloud architecture design (Azure, AWS, Google Cloud)
@@ -69,20 +69,20 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        title: Protobuffer
+        link: https://github.com/ebergstedt/ProtoBuffer
+        link_text: Protobuffer
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  ebergstedt/ProtoBuffer
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
+            url: https://github.com/ebergstedt/ProtoBuffer
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            # icon: fab fa-github
+            # url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #quote: >
+          #Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          This is a demo project for implementing Protobuf, the serialization format developed by Google. It has a wrapper, is well documented and is useful for compression for any type of data. ProtoBuf is designed for is unprecedented speed of deserialization, with a very compact format.
   - title: Experience
     layout: list
     content:
@@ -106,12 +106,14 @@ content:
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-  - title: A Little More About Me
+  - title: Interests
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      Alongside my interests in programming some of my other interests and hobbies are:
+       - Cooking and nutritional science
+       - Physiology and psychology
+       - Gaming
+       - Weight lifting
 
 # Footer
 footer_show_references: true
