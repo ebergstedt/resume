@@ -16,7 +16,7 @@ website: https://github.com/ebergstedt
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: never
 
 # Social links
 #twitter_username: jekyllrb
@@ -25,8 +25,8 @@ github_username: ebergstedt
 #dribbble_username: jekyll
 #facebook_username: jekyll
 #flickr_username: jekyll
-instagram_username: erikbergstedt
-#linkedin_username: jekyll
+#instagram_username: erikbergstedt
+linkedin_username: erikbergstedt
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
