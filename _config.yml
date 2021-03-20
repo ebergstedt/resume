@@ -102,7 +102,16 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
+        title: Collector Bank
+        sub_title: .NET Solutions Architect
+        caption: Jan 2018 - Present
+        link: https://www.collector.se
+        #quote: >
+          #Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Project leading role in fintech. Took initiative to lift a legacy debt collection system to a modern standard. Implementation included Big Data, event-focused microservice-oriented architecture, cloud hosting and devops restructuring. Results included 90% less time to production, 90-99% query time delay reduction for end consumers, and 70% cost reduction in relation to the legacy hosting with increased on-demand scalability.
+      - layout: left
         title: Collector Bank
         sub_title: .NET Solutions Architect
         caption: Jan 2018 - Present
