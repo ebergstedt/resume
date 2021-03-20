@@ -65,40 +65,6 @@ about_content: | # this will include new lines to allow paragraphs
   * Language skills include C#, Python, SQL, F#, Java, JavaScript, C, C++ and R
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Protobuffer
-        link: https://github.com/ebergstedt/ProtoBuffer
-        link_text: Protobuffer
-        additional_links:
-          - title:  ebergstedt/ProtoBuffer
-            icon: fab fa-github
-            url: https://github.com/ebergstedt/ProtoBuffer
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            # icon: fab fa-github
-            # url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        #quote: >
-          #Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          This is a demo project for implementing Protobuf, the serialization format developed by Google. It has a wrapper, is well documented and is useful for compression for any type of data. ProtoBuf is designed for unprecedented speed of deserialization, with a very compact format.
-      - layout: left
-        title: SimpleMemoryCache
-        link: https://github.com/ebergstedt/SimpleMemoryCache
-        link_text:  SimpleMemoryCache
-        additional_links:
-          - title:  ebergstedt/SimpleMemoryCache
-            icon: fab fa-github
-            url: https://github.com/ebergstedt/SimpleMemoryCache
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            # icon: fab fa-github
-            # url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        #quote: >
-          #Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Helper library for .NET MemoryCache with generics, easy initialization and deferred methods if key data is not found. Very useful for keeping data in-memory for fast access without saving it to a database.
-      
   - title: Experience
     layout: list
     content:
@@ -174,6 +140,39 @@ content:
           #Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Nature studies, mathematics and computer sicence.
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Protobuffer
+        link: https://github.com/ebergstedt/ProtoBuffer
+        link_text: Protobuffer
+        additional_links:
+          - title:  ebergstedt/ProtoBuffer
+            icon: fab fa-github
+            url: https://github.com/ebergstedt/ProtoBuffer
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            # icon: fab fa-github
+            # url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #quote: >
+          #Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          This is a demo project for implementing Protobuf, the serialization format developed by Google. It has a wrapper, is well documented and is useful for compression for any type of data. ProtoBuf is designed for unprecedented speed of deserialization, with a very compact format.
+      - layout: left
+        title: SimpleMemoryCache
+        link: https://github.com/ebergstedt/SimpleMemoryCache
+        link_text:  SimpleMemoryCache
+        additional_links:
+          - title:  ebergstedt/SimpleMemoryCache
+            icon: fab fa-github
+            url: https://github.com/ebergstedt/SimpleMemoryCache
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            # icon: fab fa-github
+            # url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #quote: >
+          #Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          Helper library for .NET MemoryCache with generics, easy initialization and deferred methods if key data is not found. Very useful for keeping data in-memory for fast access without saving it to a database.      
   - title: Interests
     layout: text
     content: | # this will include new lines to allow paragraphs
