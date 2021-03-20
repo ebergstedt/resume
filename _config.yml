@@ -112,25 +112,68 @@ content:
         description: | # this will include new lines to allow paragraphs
           Project leading role in fintech. Took initiative to lift a legacy debt collection system to a modern standard. Implementation included Big Data, event-focused microservice-oriented architecture, cloud hosting and devops restructuring. Results included 90% less time to production, 90-99% query time delay reduction for end consumers, and 70% cost reduction in relation to the legacy hosting with increased on-demand scalability.
       - layout: left
-        title: Collector Bank
-        sub_title: .NET Solutions Architect
-        caption: Jan 2018 - Present
-        link: https://www.collector.se
+        title: Squeed
+        sub_title: .NET Consultant
+        caption: Apr 2016 - Jan 2018
+        link: https://www.squeed.se
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Project leading role in fintech. Took initiative to lift a legacy debt collection system to a modern standard. Implementation included Big Data, event-focused microservice-oriented architecture, cloud hosting and devops restructuring. Results included 90% less time to production, 90-99% query time delay reduction for end consumers, and 70% cost reduction in relation to the legacy hosting with increased on-demand scalability.
+          Assisting Collector Bank (which later employed me directly due to excellent performance). Payments and collections, with a focus on improving end user experience of the banking products (B2B, B2C).
+      - layout: left
+        title: Softhouse
+        sub_title: .NET Consultant
+        caption: Jul 2015 - Apr 2016
+        link: https://www.softhouse.se
+        #quote: >
+          #Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Web development and Big Data work through developing the EasyCube system for Tork which uses IoT-connected sanitary devices and restroom metric data to optimize cleaning routes and cost efficiency. Improved query efficiency for many core functions by over 80% by remodeling the data hosting solution.
+      - layout: left
+        title: Inet
+        sub_title: .NET Developer
+        caption: May 2013 - July 2015
+        link: https://www.inet.se
+        #quote: >
+          #Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Full-stack web development. Payment API implementation such as PayPal, Handelsbanken and Klarna, resulting in 5% increase in customer finishing purchaces. Performance tuning, search engine optimization, hosting management. Generally everything related to keeping the IT side of a web shop operational and modern.   
+      - layout: left
+        title: Softronic
+        sub_title: .NET Consultant
+        caption: Jan 2011 - April 2013
+        link: https://www.softronic.se
+        #quote: >
+          #Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          In-house developer and consultant. Various projects, including Android development with Google Maps, improving legacy code hosting, modernizing government healthcare with responsive web design.
   - title: Education
     layout: list
     content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
+      - layout: left
+        title: Chalmers University of Technology
+        sub_title: Bachelor - Computer Science
+        #caption: Date Range (eg. 2016 - 2019)
+        #quote: >
+          #Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          High and low-level concepts related to computer engineering, including objective-oritented programming, assembly, electronics, networking, cpu design, fundamental database design and mathematics. 
+      - layout: left
+        title: University of Gothenburg - Department of Earth Sciences
+        sub_title: Bachelor - Geology, Earth Sciences
+        #caption: Date Range (eg. 2016 - 2019)
+        #quote: >
+          #Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          As a break from technology I explored my interest in the natural sciences. My education includes climate and environmental research, geoscience, petrology, geochemistry, meteorology and atmospheric science, hydrology, oceanography and some historical biology.
+      - layout: left
+        title: Elof Lindälvs Gymnasium
+        sub_title: Gymnasium - Nature Sciences
+        #caption: Date Range (eg. 2016 - 2019)
+        #quote: >
+          #Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Nature studies, mathematics and computer sicence.
   - title: Interests
     layout: text
     content: | # this will include new lines to allow paragraphs
