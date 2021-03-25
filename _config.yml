@@ -103,7 +103,7 @@ content:
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Full-stack web development. Payment API implementation such as PayPal, Handelsbanken and Klarna, resulting in 5% increase in customer finishing purchaces. Performance tuning, search engine optimization, hosting management. Generally everything related to keeping the IT side of a web shop operational and modern.   
+          Full-stack web development. Payment API implementation such as PayPal, Handelsbanken and Klarna, resulting in 5% increase in customer finishing purchases. Performance tuning, search engine optimization, hosting management. Generally everything related to keeping the IT side of a web shop operational and modern.   
       - layout: left
         title: Softronic
         sub_title: .NET Consultant
