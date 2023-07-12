@@ -61,7 +61,7 @@ about_content: | # this will include new lines to allow paragraphs
   * API design and implementation
   * Full-stack web development  
   * Big Data, database design and optimization (Relational, NoSQL, hybrid)  
-  * Setup and implementaton of DevOps (coding, building tools, deployment and packaging, release automation, infrastructure configuration and monitoring)
+  * Setup and implementaton of DevOps (Kubernetes + Docker, building tools, deployment and packaging, release automation, infrastructure configuration and monitoring)
   * Language skills include C#, Python, SQL, F#, Java, JavaScript, C, C++ and R
 
 content:
