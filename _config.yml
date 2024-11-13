@@ -68,8 +68,8 @@ content:
   - title: Experience
     layout: list
     content:
-    - layout: left
-        title: Saab
+      - layout: left
+        title: Saab AB
         sub_title: .NET Developer
         caption: Jan 2024 - Present
         link: https://www.saab.com/
