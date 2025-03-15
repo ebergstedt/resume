@@ -71,16 +71,23 @@ content:
       - layout: left
         title: Saab AB
         sub_title: .NET Developer
-        caption: Jan 2024 - Present
+        caption: 2024 - 2025
         link: https://www.saab.com/
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Developer for communications systems in the civil sector of SAAB.
       - layout: left
+        title: Cuviva AB
+        sub_title: .NET Developer
+        caption: 2023 - 2024
+        link: https://www.cuviva.com/
+        description: | # this will include new lines to allow paragraphs
+          Developer for Cuviva's healthcare IOT solutions. Responsibilities included mobile, webapp and scaling backend infrastructure to meet the increasing demands of onboarding new customers.
+      - layout: left
         title: Collector Bank
         sub_title: .NET Solutions Architect
-        caption: Jan 2018 - 2023
+        caption: 2018 - 2023
         link: https://www.collector.se
         #quote: >
           #Short description of the company (optional)
@@ -89,7 +96,7 @@ content:
       - layout: left
         title: Squeed
         sub_title: .NET Consultant
-        caption: Apr 2016 - Jan 2018
+        caption: 2016 - 2018
         link: https://www.squeed.se
         #quote: >
           #Short description of the company (optional)
@@ -98,7 +105,7 @@ content:
       - layout: left
         title: Softhouse
         sub_title: .NET Consultant
-        caption: Jul 2015 - Apr 2016
+        caption: 2015 - 2016
         link: https://www.softhouse.se
         #quote: >
           #Short description of the company (optional)
@@ -107,7 +114,7 @@ content:
       - layout: left
         title: Inet
         sub_title: .NET Developer
-        caption: May 2013 - July 2015
+        caption: 2013 - 2015
         link: https://www.inet.se
         #quote: >
           #Short description of the company (optional)
@@ -116,7 +123,7 @@ content:
       - layout: left
         title: Softronic
         sub_title: .NET Consultant
-        caption: Jan 2011 - April 2013
+        caption: 2011 - 2013
         link: https://www.softronic.se
         #quote: >
           #Short description of the company (optional)
