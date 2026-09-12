@@ -54,11 +54,15 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   As a Solutions Architect I take responsibility for driving your company vision forward, from business strategy down to concrete implementation. I enjoy improving code stability and performance through long-term, cost-efficient architectural choices, and enabling other developers to build the best product they can as a team lead.
 
+  Most of my career has been spent in fintech and e-commerce, building payment, credit and debt collection systems where correctness, auditability and security are non-negotiable. This includes credit card authorization flows, fraud detection, payment provider integrations and the compliance work that comes with handling financial and personal data. I currently work in the defense and security sector.
+
   I have over 15 years of experience with a wide breadth of knowledge, including but not limited to:
   * .NET architecture and design
   * Distributed systems and event-driven microservices
   * Cloud architecture (Azure, AWS, Google Cloud)
   * API design and implementation
+  * Payments and fintech: card authorization, fraud detection, payment provider integrations (PayPal, Klarna, bank APIs), credit and collections
+  * Security and compliance: authentication and authorization, secure API design, PCI DSS and GDPR requirements, work in security-classified environments
   * Full-stack web development
   * Database design and optimization (relational, NoSQL, hybrid)
   * DevOps and platform engineering (Kubernetes, Docker, CI/CD, release automation, infrastructure as code, monitoring)
@@ -92,7 +96,7 @@ content:
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Project leading role in fintech. Took initiative to lift a legacy debt collection system to a modern standard. Implementation included an event-driven microservice architecture, cloud hosting and a DevOps restructuring. Results included 90% less time to production, 90-99% query time delay reduction for end consumers, and 70% cost reduction in relation to the legacy hosting with increased on-demand scalability.
+          Project leading role in fintech, covering payments, credit card authorization and fraud detection. Took initiative to lift a legacy debt collection system to a modern standard. Implementation included an event-driven microservice architecture, cloud hosting and a DevOps restructuring. Results included 90% less time to production, 90-99% query time delay reduction for end consumers, and 70% cost reduction in relation to the legacy hosting with increased on-demand scalability.
       - layout: left
         title: Squeed
         sub_title: .NET Consultant
